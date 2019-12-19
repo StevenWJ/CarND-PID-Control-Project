@@ -119,10 +119,5 @@ In this project, the data received from simulator was not enough to simulate the
 ## Final Result
 The vehicle equiped with steering and throttle PID controllers.  It could drive up to 25 MPH without touching undrivable ground and lasted for more than two laps, which comply with the [project rubric](https://review.udacity.com/#!/rubrics/1972/view).   
 
-![Final Result](./final_result.png)(https://youtu.be/f-bznjzn00c)
+![Final Result](https://youtu.be/f-bznjzn00c)
 
-
-
-```python
-
-```
